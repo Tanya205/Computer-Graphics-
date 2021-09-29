@@ -1,6 +1,6 @@
 ## What is computer graphics?
 #### Computer Graphics is the use of computer to define, store, manipulate and present pictorial output. 
-<br> 
+
 #### Typically, the term computer graphics refers to several different things:
 <ul> 
   <li> The representation and manipulation of image data by a computer </li>
@@ -9,7 +9,7 @@
 </ul>
 
 ## How is Computer graphics different from Image processing and Computer vision?
-#### Computer graphics is referred to the process of creating images from abstract models, whereas Image processing refers to the process of starting with an existing image and #### refining it in some way to obtain another image. Computer vision refers to the process of computing an abstract model given an input image. 
+#### Computer graphics is referred to the process of creating images from abstract models, whereas Image processing refers to the process of starting with an existing image and refining it in some way to obtain another image. Computer vision refers to the process of computing an abstract model given an input image. 
 
 ## Applications of Computer Graphics
 <ul>
