@@ -59,7 +59,7 @@
 </ol>
   
 
-</br>
+
 ## 2. Bresenham Algorithm
 ### Advantages of Bresenham’s Line Drawing Algorithm - 
 <ol>
@@ -76,7 +76,7 @@
 </ol>
 
 
-</br>
+
 ## 3. Mid-point algorithm
 ### The advantages of Mid Point Line Drawing Algorithm are-
 <ol>
