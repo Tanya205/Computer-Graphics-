@@ -40,7 +40,7 @@
 
 
 ## Line Drawing Algorithms
-### 1. Digital Difference/ Differential Analyzer (DDA)
+## 1. Digital Difference/ Differential Analyzer (DDA)
 #### Given the starting and ending coordinates of a line, DDA Algorithm attempts to generate the points between the starting and ending coordinates. It is the simplest line drawing algorithm.
 
 ### The advantages of DDA Algorithm are-
@@ -59,7 +59,8 @@
 </ol>
   
 
-## Bresenham Algorithm
+
+## 2. Bresenham Algorithm
 ### Advantages of Bresenham’s Line Drawing Algorithm - 
 <ol>
   <li> It is quick and incremental. </li>
@@ -75,7 +76,8 @@
 </ol>
 
 
-## Mid-point algorithm
+
+## 3. Mid-point algorithm
 ### The advantages of Mid Point Line Drawing Algorithm are-
 <ol>
   <li> It is simple to implement. </li>
