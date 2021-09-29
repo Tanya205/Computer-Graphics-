@@ -59,7 +59,38 @@
 </ol>
   
 
+## Bresenham Algorithm
+### Advantages of Bresenham’s Line Drawing Algorithm - 
+<ol>
+  <li> It is quick and incremental. </li>
+  <li> It is simple to implement because it only contains integers. </li>
+  <li> It is fast to apply but not faster than the Digital Differential Analyzer (DDA) algorithm. </li>
+  <li> The pointing accuracy is higher than the DDA algorithm. </li>
+</ol>
 
+### Disadvantages of Bresenham’s Line Drawing Algorithm -
+<ol>
+  <li>The resulted draw line is not smooth. </li>
+  <li> The Bresenham’s Line drawing algorithm only helps to draw the basic line. </li>
+</ol>
+
+
+## Mid-point algorithm
+### The advantages of Mid Point Line Drawing Algorithm are-
+<ol>
+  <li> It is simple to implement. </li>
+  <li> It uses basic arithmetic operations. </li>
+  <li> The resulted line is smooth as compared to other line drawing algorithms. </li>
+  <li> It takes less time for computation. </li>
+  <li> Accuracy of finding points is a key feature of this algorithm. </li> 
+</ol>
+
+### The disadvantages of Mid Point Line Drawing Algorithm are-
+<ol>
+  <li>  This algorithm may not be an ideal choice for complex graphics and images. </li>
+  <li> In terms of accuracy of finding points, improvement is still needed. </li>
+  <li> There is no any remarkable improvement made by this algorithm. </li>
+</ol>
 
 
 
