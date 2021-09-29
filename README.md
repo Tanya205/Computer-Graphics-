@@ -43,7 +43,7 @@
 ## 1. Digital Difference/ Differential Analyzer (DDA)
 #### Given the starting and ending coordinates of a line, DDA Algorithm attempts to generate the points between the starting and ending coordinates. It is the simplest line drawing algorithm.
 
-### The advantages of DDA Algorithm are-
+<h4> The advantages of DDA Algorithm are- </h4>
 <ol>
   <li> It is a simple algorithm. </li>
   <li> It is easy to implement. </li>
